@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/zhaorui/Desktop/AnimationDemo/McAnimation_CABaseAnimation/McAnimation_CABaseAnimation.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:/Users/zhaorui/Desktop/AnimationDemo/McAnimation_NSAnimationContext/McAnimation_NSAnimationContext.xcodeproj">
    </FileRef>
    <FileRef
