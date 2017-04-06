@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AnimationDemo.xcscheme</key>
+		<key>McAnimation_NSViewAnimation.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>C5F43F751E87AF0C00E20FF6</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>C5F43F861E87AF0C00E20FF6</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>C5F43F911E87AF0C00E20FF6</key>
+		<key>042616B515663A840027F056</key>
 		<dict>
 			<key>primary</key>
 			<true/>
