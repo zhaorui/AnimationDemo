@@ -29,7 +29,7 @@
     }
     
     NSRect startFrame = [animationTarget frame];
-    NSRect endFrame = NSMakeRect(0, 0, startFrame.size.width, startFrame.size.height);
+    NSRect endFrame = NSMakeRect(0, 0, startFrame.size.width / 2, startFrame.size.height / 2);
     NSDictionary *dictionary = [[NSDictionary alloc] initWithObjectsAndKeys:
                                 animationTarget,NSViewAnimationTargetKey,
                                 NSViewAnimationFadeInEffect,NSViewAnimationEffectKey,
