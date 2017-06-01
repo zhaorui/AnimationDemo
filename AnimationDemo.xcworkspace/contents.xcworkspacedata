@@ -13,4 +13,7 @@
    <FileRef
       location = "group:McAnimation_NSViewAnimation/McAnimation_NSViewAnimation.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:McAnimation_NSViewAnimation/../McAnimation_CAKeyframeAnimation/McAnimation_CAKeyframeAnimation.xcodeproj">
+   </FileRef>
 </Workspace>
